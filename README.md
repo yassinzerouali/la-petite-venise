@@ -1,4 +1,4 @@
-# money
+# la petite Venise
 
 Built with [10x](https://10x.app). Edit this README freely — 10x
 will not overwrite it once you've made changes.
@@ -23,7 +23,7 @@ press ⌘R to build and run.
 
 ## Bundle
 
-`app.10x.money`
+`app.10x.la-petite-venise`
 
 
 
